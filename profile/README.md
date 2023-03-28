@@ -1,4 +1,4 @@
-<h1>Welcome to RemodedUi's official GitHub </h1>
+<h1>Welcome to RemodedUi's official GitHub Page</h1>
 
   
   ## 💻 RemodedUi is based on :
