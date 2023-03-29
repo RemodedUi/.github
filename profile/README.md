@@ -4,8 +4,10 @@
 
   
   ## 💻 RemodedUi is based on :
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/New_color_logo_of_MIUI.png/300px-New_color_logo_of_MIUI.png" width="100" height="">
+</p>
 
- ![Image description](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/New_color_logo_of_MIUI.png/300px-New_color_logo_of_MIUI.png)
 
    
 
