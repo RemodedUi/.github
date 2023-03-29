@@ -11,10 +11,10 @@
 
   #### Redmi Note 9 
   ##### By: Jᴇғɪɴᴏ ⚝ & Andy
-
+#
   #### Redmi 9/Poco M2
   ##### By: NoOB🅓🅔🅥
-
+#
   #### Redmj Note 10 Pro 
 
   #### Mi 10T/Pro & Redmi K30S
