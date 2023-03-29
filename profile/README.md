@@ -1,9 +1,11 @@
+ ![Image description](https://raw.githubusercontent.com/RemodedUi/remodedui.github.io/main/assets/img/portfolio/rui.png)
+
 <h1>Welcome to RemodedUi's official GitHub Page</h1>
 
   
   ## 💻 RemodedUi is based on :
 
-  [![Android 13](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/) 
+ ![Image description](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/New_color_logo_of_MIUI.png/300px-New_color_logo_of_MIUI.png)
 
    
 
