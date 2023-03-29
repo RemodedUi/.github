@@ -7,11 +7,13 @@
 
    
 
-  ## My Devices 
+  ## Supported Devices 
 
   #### Redmi Note 9 
+  ##### By: Jᴇғɪɴᴏ ⚝ & Andy
 
   #### Redmi 9/Poco M2
+  ##### By: NoOB🅓🅔🅥
 
   #### Redmj Note 10 Pro 
 
