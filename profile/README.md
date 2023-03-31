@@ -34,11 +34,11 @@
   #### Redmi Note 9S/Pro/Pro Max
   ##### By: Rafi || #AFK 🇧🇩
 #
-## Other Devs 
-### Web Developer 
-#### MjhawK
+### Other Devs 
+#### Web Developer 
+##### MjhawK
 #
-### Git Developer and AOSP Developer 
-#### DI Raizel 
+#### Git Developer and AOSP Developer 
+##### DI Raizel 
 #
   #### Visit our website for more information.
