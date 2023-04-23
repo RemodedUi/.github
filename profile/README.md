@@ -11,34 +11,7 @@
 
    
 
-  ## Supported Devices 
 
-  #### Redmi Note 9 
-  ##### By: Jᴇғɪɴᴏ ⚝ & Andy
-#
-  #### Redmi 9/Poco M2
-  ##### By: NoOB🅓🅔🅥
-#
-  #### Redmj Note 10 Pro 
-  ##### By: M Shan
-#
-  #### Mi 10T/Pro & Redmi K30S
-  ##### By: Mkdir Marwan
-#
-  #### Redmi 9a
-  ##### By: Luffy🅓🅔🅥
-#
-  #### Redmi Note 5
-  ##### By: 𝙄𝙢𝙧𝙖𝙣 𝙍𝙤𝙭
-#
-  #### Redmi Note 9S/Pro/Pro Max
-  ##### By: Rafi || #AFK 🇧🇩
-#
-### Other Devs 
-#### Web Developer 
-##### MjhawK
-#
-#### Git Developer and AOSP Developer 
-#####  𝙳𝚒 𝚁𝚊𝚒𝚣𝚎𝚕 ㋡ | AOSP
-#
+
+
   #### Visit our website for more information.
